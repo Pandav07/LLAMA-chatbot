@@ -2,7 +2,7 @@
 1. create virtual environment by
    python -m venv project_path\venv
 2. install streamlit & groq by
-   pip install streamlit
+   pip install streamlit,
    pip install groq
 3. create folder src inside venv
 4. create files main.py & config.json
